@@ -1,0 +1,3 @@
+In the first program, X prints 3.
+
+In the second program, X does not print b/c it does not exist in the global scope.
