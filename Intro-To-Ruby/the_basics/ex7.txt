@@ -1,0 +1,1 @@
+The error message means that the program has a ")" character incorrectly placed, and the program was expecting a "}" character instead.
